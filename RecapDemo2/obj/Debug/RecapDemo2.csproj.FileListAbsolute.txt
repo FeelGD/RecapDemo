@@ -1,0 +1,6 @@
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\aiyil\source\repos\RecapDemo\RecapDemo2\obj\Debug\RecapDemo2.pdb
